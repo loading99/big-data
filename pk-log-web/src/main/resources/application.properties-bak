@@ -1,0 +1,5 @@
+server.port= 9527
+server.servlet.context-path=/pk-web
+
+
+logging.file.path=D:/logs

@@ -1,0 +1,14 @@
+server:
+  port: 9527
+
+  servlet:
+    context-path: /pk-web
+
+
+spring:
+  main:
+    banner-mode: off
+
+
+
+
