@@ -1,8 +1,8 @@
-# big-data
-Spark Streaming Based real time data processing
+
+# Spark Streaming Based real time data processing
 
 
-##Dependencies
+## Dependencies
 JDK: 1.8
 Scala: 2.12.10
 Maven 3.6.3
