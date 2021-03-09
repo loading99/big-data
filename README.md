@@ -8,4 +8,6 @@ Scala: 2.12.10
 Maven 3.6.3  
 Hadoop：2.6.0-cdh5.16.2  
 Zookeeper 3.4.5  
-
+Spark 3.0.0
+Kafka 2.5.0
+Flume 1.6.0-cdh5.16.2
